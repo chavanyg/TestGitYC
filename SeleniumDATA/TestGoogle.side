@@ -1,0 +1,198 @@
+{
+  "id": "b2e1362a-1670-48ac-8d5e-0de365824578",
+  "version": "2.0",
+  "name": "Test0705",
+  "url": "https://www.google.com",
+  "tests": [{
+    "id": "c24ca9fb-fb61-4d53-a692-f15a45142389",
+    "name": "TESTGoogle",
+    "commands": [{
+      "id": "01f222ea-3469-4636-a80b-69de725aa41f",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "26b8cb97-f21f-4428-9c76-96312f24f065",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x744",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e843e006-da98-4916-98af-1335233c9e96",
+      "comment": "",
+      "command": "click",
+      "target": "css=center:nth-child(1) > input:nth-child(2)",
+      "targets": [
+        ["css=center:nth-child(1) > input:nth-child(2)", "css:finder"],
+        ["xpath=(//input[@name='btnI'])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div[3]/center/input[2]", "xpath:idRelative"],
+        ["xpath=//div[3]/center/input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f13ad30e-3a64-445a-b447-0aec7e79ba2c",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,647)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "311c6a32-2826-472f-a83c-73ef9d65d9e2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.doodle-thumb:nth-child(3) img",
+      "targets": [
+        ["css=.doodle-thumb:nth-child(3) img", "css:finder"],
+        ["xpath=//ul[@id='archive-list']/li[3]/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[2]/ul/li[3]/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "97a281be-d4cc-4279-860c-3f94cbfe40df",
+      "comment": "",
+      "command": "click",
+      "target": "css=.doodle-thumb:nth-child(1) img",
+      "targets": [
+        ["css=.doodle-thumb:nth-child(1) img", "css:finder"],
+        ["xpath=//ul[@id='archive-list']/li/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "253a8b7a-1561-4d31-8529-683a2019cc58",
+      "comment": "",
+      "command": "click",
+      "target": "id=lang-chooser",
+      "targets": [
+        ["id=lang-chooser", "id"],
+        ["name=hl", "name"],
+        ["css=#lang-chooser", "css:finder"],
+        ["xpath=//select[@id='lang-chooser']", "xpath:attributes"],
+        ["xpath=//li[@id='language-menu']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "96d87de1-b718-4aab-a515-f40a711b54ec",
+      "comment": "",
+      "command": "select",
+      "target": "id=lang-chooser",
+      "targets": [],
+      "value": "label=‪English (United Kingdom)‬"
+    }, {
+      "id": "cd77d01e-9eb5-48cf-b67f-6cb10a75bdf6",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(6)",
+      "targets": [
+        ["css=option:nth-child(6)", "css:finder"],
+        ["xpath=//option[@value='en-GB']", "xpath:attributes"],
+        ["xpath=//select[@id='lang-chooser']/option[6]", "xpath:idRelative"],
+        ["xpath=//option[6]", "xpath:position"],
+        ["xpath=//option[contains(.,'English (United Kingdom)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4b4651e-6ea9-4df7-b2c2-853a3506a594",
+      "comment": "",
+      "command": "click",
+      "target": "id=lang-chooser",
+      "targets": [
+        ["id=lang-chooser", "id"],
+        ["name=hl", "name"],
+        ["css=#lang-chooser", "css:finder"],
+        ["xpath=//select[@id='lang-chooser']", "xpath:attributes"],
+        ["xpath=//li[@id='language-menu']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ff4da861-6658-4ae4-aed6-ae008a743ec2",
+      "comment": "",
+      "command": "select",
+      "target": "id=lang-chooser",
+      "targets": [],
+      "value": "label=‪English (United States)‬"
+    }, {
+      "id": "c7a5c94e-24a1-4c70-b953-fde5988e2c9f",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(7)",
+      "targets": [
+        ["css=option:nth-child(7)", "css:finder"],
+        ["xpath=//option[@value='en']", "xpath:attributes"],
+        ["xpath=//select[@id='lang-chooser']/option[7]", "xpath:idRelative"],
+        ["xpath=//option[7]", "xpath:position"],
+        ["xpath=//option[contains(.,'English (United States)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7da95d57-9b48-4fff-a0f1-e5ce45caf5d5",
+      "comment": "",
+      "command": "select",
+      "target": "id=lang-chooser",
+      "targets": [],
+      "value": "label=‪हिन्दी‬"
+    }, {
+      "id": "33b0f44d-ad4d-4049-abfc-e8b2238d0da3",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(14)",
+      "targets": [
+        ["css=option:nth-child(14)", "css:finder"],
+        ["xpath=//option[@value='hi']", "xpath:attributes"],
+        ["xpath=//select[@id='lang-chooser']/option[14]", "xpath:idRelative"],
+        ["xpath=//option[14]", "xpath:position"],
+        ["xpath=//option[contains(.,'हिन्दी')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b2623270-51e9-42b6-9a4c-93dd997f9ae4",
+      "comment": "",
+      "command": "click",
+      "target": "id=lang-chooser",
+      "targets": [
+        ["id=lang-chooser", "id"],
+        ["name=hl", "name"],
+        ["css=#lang-chooser", "css:finder"],
+        ["xpath=//select[@id='lang-chooser']", "xpath:attributes"],
+        ["xpath=//li[@id='language-menu']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "aba47308-b907-4a43-bb89-beeaac6ccabb",
+      "comment": "",
+      "command": "select",
+      "target": "id=lang-chooser",
+      "targets": [],
+      "value": "label=‪English (United States)‬"
+    }, {
+      "id": "a4cb2176-919e-45ec-b75e-b95815fce839",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(7)",
+      "targets": [
+        ["css=option:nth-child(7)", "css:finder"],
+        ["xpath=//option[@value='en']", "xpath:attributes"],
+        ["xpath=//select[@id='lang-chooser']/option[7]", "xpath:idRelative"],
+        ["xpath=//option[7]", "xpath:position"],
+        ["xpath=//option[contains(.,'English (United States)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "dabbfea7-6476-4dc5-8acc-7a2bbe987aa6",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["c24ca9fb-fb61-4d53-a692-f15a45142389"]
+  }],
+  "urls": ["https://www.google.com/"],
+  "plugins": []
+}

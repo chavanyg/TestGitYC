@@ -1,0 +1,1052 @@
+!SESSION 2019-05-17 00:22:46.295 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-05-17 07:23:15.467
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.141
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/AbstractBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.163
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/AbstractImageBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.168
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/BasicBundlers.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.175
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/StandardBundlerParam.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.181
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/jnlp/JNLPBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.187
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/linux/LinuxAppBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.192
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/linux/LinuxDebBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.198
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/linux/LinuxRpmBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.204
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/mac/MacAppBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.209
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/mac/MacAppStoreBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.215
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/mac/MacBaseInstallerBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.221
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/mac/MacDaemonBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.227
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/mac/MacDmgBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.233
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/mac/MacPkgBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.239
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/windows/WinAppBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.245
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/windows/WindowsBundlerParam.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.251
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/windows/WinExeBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.257
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/oracle/tools/packager/windows/WinMsiBundler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.264
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/sun/javafx/tools/ant/DeployFXTask.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.275
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/ant-javafx.jar|com/sun/javafx/tools/packager/PackagerLib.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.369
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/AbstractButtonBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.384
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/BoxBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.392
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JAppletBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.399
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JButtonBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.407
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JCheckBoxBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.414
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JCheckBoxMenuItemBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.420
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JColorChooserBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.425
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JComboBoxBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.431
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JComponentBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.437
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JDesktopPaneBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.443
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JDialogBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.448
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JEditorPaneBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.455
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JFileChooserBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.461
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JFormattedTextFieldBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.466
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JFrameBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.472
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JInternalFrameBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.478
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JLabelBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.483
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JLayeredPaneBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.489
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JListBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.495
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JMenuBarBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.500
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JMenuBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.506
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JMenuItemBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.512
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JOptionPaneBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.517
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JPanelBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.523
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JPasswordFieldBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.529
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JPopupMenuBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.535
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JProgressBarBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.542
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JRadioButtonBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.547
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JRadioButtonMenuItemBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.553
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JScrollBarBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.559
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JScrollPaneBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.564
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JSeparatorBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.570
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JSliderBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.576
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JSpinnerBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.581
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JSplitPaneBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.587
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JTabbedPaneBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.593
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JTableBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.598
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JTextAreaBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.604
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JTextFieldBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.610
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JTextPaneBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.615
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JToggleButtonBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.621
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JToolBarBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.627
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JTreeBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.632
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/JWindowBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:01.638
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/dt.jar|javax/swing/text/JTextComponentBeanInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:03.474
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/tools.jar|com/sun/tools/jdi/ClassTypeImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:03.487
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/tools.jar|com/sun/tools/jdi/InterfaceTypeImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:03.684
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/tools.jar|sun/applet/AppletPanel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 07:53:03.776
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_92/lib/tools.jar|sun/tools/attach/HotSpotVirtualMachine.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2019-05-17 09:17:24.435 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.720
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/cache/LocalCache$EntrySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.788
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/cache/LocalCache$Values.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.802
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/cache/LocalCache.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.812
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/AbstractMapBasedMultimap$AsMap$AsMapEntries.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.824
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/AbstractMapBasedMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.831
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/AbstractMapBasedMultiset.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.841
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/AbstractTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.851
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ArrayTable$ArrayMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.859
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ArrayTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.868
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/CollectCollectors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.874
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/CollectSpliterators$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.880
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/CollectSpliterators$1FlatMapSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.885
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/CollectSpliterators$1WithCharacteristics.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.891
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Collections2$FilteredCollection.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.897
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Collections2$TransformedCollection.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.903
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/CompactHashMap$EntrySetView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.912
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Comparators.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.937
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/HashBiMap$Inverse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.946
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableEnumMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.953
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.959
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableListMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.966
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.973
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableMapKeySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.979
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableMapValues.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.986
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.992
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableMultiset$Builder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:06.998
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableMultiset.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.007
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableSet$Indexed.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.022
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableSetMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.028
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableSortedAsList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.034
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableSortedMap$1EntrySet$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.040
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableSortedMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.047
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableSortedMultiset.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.055
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/ImmutableTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.061
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/IndexedImmutableSet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.067
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Iterables$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.073
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Iterables$4.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.078
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Iterables$5.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.088
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/JdkBackedImmutableMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.095
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/LinkedHashMultimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.104
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Lists$TransformingRandomAccessList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.110
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Lists$TransformingSequentialList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.125
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Maps$Accumulator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.131
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Maps$AsMapView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.138
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Maps$FilteredEntryBiMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.146
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Maps$KeySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.152
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Maps$NavigableAsMapView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.158
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Maps$TransformedEntriesMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.165
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Maps$Values.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.172
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Maps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.179
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/MoreCollectors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.185
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Multimap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.194
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Multimaps$Keys.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.202
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Multimaps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.208
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Multiset.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.217
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Multisets.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.223
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/MutableClassToInstanceMap$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.233
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/RegularImmutableBiMap$Inverse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.245
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Sets$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.251
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Sets$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.256
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Sets$3.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.263
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Sets$Accumulator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.277
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/StandardTable$Row.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.283
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/StandardTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.291
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Streams.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.304
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/collect/Tables.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.348
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/hash/BloomFilter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.368
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/io/CharSource.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.391
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/primitives/ImmutableDoubleArray$Builder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.398
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/primitives/ImmutableIntArray$Builder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.404
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/primitives/ImmutableLongArray$Builder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:07.435
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/libs/guava-25.0-jre.jar|com/google/common/util/concurrent/AtomicLongMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.101
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/AbstractCapabilities.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.110
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/ImmutableCapabilities.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.119
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/MutableCapabilities.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.133
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/chrome/ChromeOptions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.140
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/firefox/Executable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.149
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/firefox/FirefoxBinary$Channel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.158
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/firefox/FirefoxBinary.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.166
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/firefox/FirefoxDriver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.172
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/firefox/FirefoxOptions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.178
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/firefox/GeckoDriverInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.186
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/firefox/XpiDriverService.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.193
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/ie/InternetExplorerOptions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.200
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/interactions/Actions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.208
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/interactions/MoveToOffsetAction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.215
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/interactions/SendKeysAction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.221
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/interactions/internal/KeysRelatedAction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.226
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/interactions/internal/MouseAction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.234
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/io/TemporaryFilesystem.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.240
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/BooleanCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.246
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/CollectionCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.252
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/CommandCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.257
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/EnumCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.264
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/InstanceCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.270
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/JsonInput.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.277
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/JsonOutput.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.283
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/JsonTypeCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.289
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/MapCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.294
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/NumberCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.300
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/ObjectCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.306
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/ResponseCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.312
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/SessionIdCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.318
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/SimplePropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.324
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/StaticInitializerCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.329
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/StringCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.335
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/UriCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.341
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/UrlCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.347
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/json/UuidCoercer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.353
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/logging/LogCombiner.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.358
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/logging/LogEntries.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.364
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/logging/LogEntry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.372
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/net/UrlChecker.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.379
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/AcceptedW3CCapabilityKeys.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.385
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/AddRotatable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.392
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/DesiredCapabilities.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.399
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/ErrorCodes.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.405
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/ErrorHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.410
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/HandshakeResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.417
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/JsonWireProtocolResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.427
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/NewSessionPayload.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.433
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/ProtocolHandshake$Result.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.439
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/ProtocolHandshake.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.446
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/RemoteWebDriver$RemoteWebDriverOptions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.453
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/RemoteWebDriverBuilder$Plan.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.459
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/RemoteWebDriverBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.465
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/RemoteWebElement.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.471
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/W3CHandshakeResponse.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.476
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/html5/AddApplicationCache.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.482
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/html5/AddLocationContext.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.487
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/html5/AddWebStorage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.495
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/http/HttpMessage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.501
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/http/W3CHttpCommandCodec.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.507
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/internal/HttpUrlBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.513
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/internal/OkHttpClient$Factory$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.519
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/internal/OkHttpClient.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.525
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/mobile/AddNetworkConnection.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.531
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/session/ChromeFilter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.537
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/session/EdgeFilter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.543
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/session/FirefoxFilter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.549
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/session/InternetExplorerFilter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.554
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/session/OperaFilter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.560
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/remote/session/SafariFilter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.566
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/safari/SafariDriverInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.572
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/safari/SafariOptions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.578
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/safari/SafariTechPreviewDriverInfo.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.589
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/events/EventFiringWebDriver$EventFiringWebElement.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.595
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/events/EventFiringWebDriver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.606
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/ui/ExpectedConditions$38.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.612
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/ui/ExpectedConditions$39.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.619
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/ui/ExpectedConditions$45.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.626
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/ui/ExpectedConditions.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.631
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/ui/FluentWait.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.638
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/ui/Select.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2019-05-17 09:28:08.643
+!MESSAGE The Java indexing could not index D:/Yogesh/Selenium/WebDriverTest/JAR/selenium-java-3.141.59/client-combined-3.141.59.jar|org/openqa/selenium/support/ui/Sleeper.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2019-05-20 00:39:43.865 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-05-20 00:55:32.012
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://oss.opensagres.fr/angularjs-eclipse/1.0.0-SNAPSHOT/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-05-20 00:55:32.012
+!MESSAGE No repository found at http://oss.opensagres.fr/angularjs-eclipse/1.0.0-SNAPSHOT/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-05-20 00:56:01.502
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/webtools/downloads/drops/R3.2.3/R-3.2.3-20110217214612/repository/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:153)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:746)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-05-20 00:56:01.503
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/drops/R3.2.3/R-3.2.3-20110217214612/repository/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-05-20 00:56:05.690
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://archive.eclipse.org/webtools/downloads/drops/R3.2.2/R-3.2.2-20100915173744/repository/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:153)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:746)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-05-20 00:56:05.691
+!MESSAGE No repository found at http://archive.eclipse.org/webtools/downloads/drops/R3.2.2/R-3.2.2-20100915173744/repository/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-05-20 00:56:09.313
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://archive.eclipse.org/webtools/downloads/drops/R3.2.1/R-3.2.1-20100730021206/repositoryb/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:153)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:746)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-05-20 00:56:09.314
+!MESSAGE No repository found at http://archive.eclipse.org/webtools/downloads/drops/R3.2.1/R-3.2.1-20100730021206/repositoryb/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-05-20 00:56:13.165
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://archive.eclipse.org/webtools/downloads/drops/R3.2.0/R-3.2.0-20100615235519/repositoryb/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:153)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:746)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-05-20 00:56:13.165
+!MESSAGE No repository found at http://archive.eclipse.org/webtools/downloads/drops/R3.2.0/R-3.2.0-20100615235519/repositoryb/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-05-20 00:56:17.004
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/webtools/downloads/drops/R3.2.4/R-3.2.4-20110511033327/repository/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:153)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:746)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-05-20 00:56:17.004
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/drops/R3.2.4/R-3.2.4-20110511033327/repository/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-05-20 00:56:20.766
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/webtools/downloads/drops/R3.2.5/R-3.2.5-20111027122637/repository/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:153)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:746)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-05-20 00:56:20.766
+!MESSAGE No repository found at http://download.eclipse.org/webtools/downloads/drops/R3.2.5/R-3.2.5-20111027122637/repository/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2019-05-20 00:56:25.260
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/tools/mylyn/update/helios.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:391)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:675)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:115)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:100)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:82)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2019-05-20 00:56:25.260
+!MESSAGE No repository found at http://download.eclipse.org/tools/mylyn/update/helios.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 00:59:52.814
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 00:59:52.814
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 00:59:52.814
+!MESSAGE Software being installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 00:59:52.814
+!MESSAGE Missing requirement: TestNG M2E (Maven) Integration 6.14.3.201902250526 (org.testng.eclipse.maven 6.14.3.201902250526) requires 'bundle org.eclipse.m2e.core 1.5.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 00:59:52.814
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 00:59:52.814
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 00:59:52.814
+!MESSAGE To: org.testng.eclipse.maven [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 00:59:52.824
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 00:59:52.824
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 00:59:52.824
+!MESSAGE Software being installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 00:59:52.825
+!MESSAGE Missing requirement: TestNG M2E (Maven) Integration 6.14.3.201902250526 (org.testng.eclipse.maven 6.14.3.201902250526) requires 'bundle org.eclipse.m2e.core 1.5.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 00:59:52.825
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 00:59:52.825
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 00:59:52.825
+!MESSAGE To: org.testng.eclipse.maven [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:00:50.038
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:00:50.038
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:00:50.038
+!MESSAGE Software being installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:00:50.038
+!MESSAGE Missing requirement: TestNG M2E (Maven) Integration 6.14.3.201902250526 (org.testng.eclipse.maven 6.14.3.201902250526) requires 'bundle org.eclipse.m2e.core 1.5.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:00:50.039
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:00:50.039
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:00:50.039
+!MESSAGE To: org.testng.eclipse.maven [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:00:50.047
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:00:50.047
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:00:50.047
+!MESSAGE Software being installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:00:50.047
+!MESSAGE Missing requirement: TestNG M2E (Maven) Integration 6.14.3.201902250526 (org.testng.eclipse.maven 6.14.3.201902250526) requires 'bundle org.eclipse.m2e.core 1.5.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:00:50.048
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:00:50.048
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:00:50.048
+!MESSAGE To: org.testng.eclipse.maven [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:01:21.080
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:01:21.080
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:21.080
+!MESSAGE Software being installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:21.081
+!MESSAGE Missing requirement: TestNG M2E (Maven) Integration 6.14.3.201902250526 (org.testng.eclipse.maven 6.14.3.201902250526) requires 'bundle org.eclipse.m2e.core 1.5.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:01:21.081
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:21.081
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:21.081
+!MESSAGE To: org.testng.eclipse.maven [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:01:21.087
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:01:21.087
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:21.087
+!MESSAGE Software being installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:21.087
+!MESSAGE Missing requirement: TestNG M2E (Maven) Integration 6.14.3.201902250526 (org.testng.eclipse.maven 6.14.3.201902250526) requires 'bundle org.eclipse.m2e.core 1.5.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:01:21.087
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:21.087
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:21.087
+!MESSAGE To: org.testng.eclipse.maven [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:01:58.725
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:01:58.725
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:58.725
+!MESSAGE Software being installed: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:58.725
+!MESSAGE Missing requirement: TestNG Eclipse Support 6.14.3.201902250526 (org.testng.eclipse 6.14.3.201902250526) requires 'bundle org.eclipse.jdt.launching 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:01:58.725
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:58.726
+!MESSAGE From: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:58.726
+!MESSAGE To: org.testng.eclipse [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:01:58.739
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:01:58.739
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:58.739
+!MESSAGE Software being installed: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:58.739
+!MESSAGE Missing requirement: TestNG Eclipse Support 6.14.3.201902250526 (org.testng.eclipse 6.14.3.201902250526) requires 'bundle org.eclipse.jdt.launching 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:01:58.740
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:58.740
+!MESSAGE From: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:01:58.740
+!MESSAGE To: org.testng.eclipse [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:02:37.847
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:02:37.847
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:02:37.847
+!MESSAGE Software being installed: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:02:37.847
+!MESSAGE Missing requirement: TestNG Eclipse Support 6.14.3.201902250526 (org.testng.eclipse 6.14.3.201902250526) requires 'bundle org.eclipse.jdt.launching 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:02:37.848
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:02:37.848
+!MESSAGE From: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:02:37.848
+!MESSAGE To: org.testng.eclipse [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:02:37.855
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:02:37.855
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:02:37.855
+!MESSAGE Software being installed: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:02:37.855
+!MESSAGE Missing requirement: TestNG Eclipse Support 6.14.3.201902250526 (org.testng.eclipse 6.14.3.201902250526) requires 'bundle org.eclipse.jdt.launching 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:02:37.855
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:02:37.855
+!MESSAGE From: TestNG 6.14.3.201902250526 (org.testng.eclipse.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:02:37.855
+!MESSAGE To: org.testng.eclipse [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:03:07.326
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:03:07.327
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:03:07.327
+!MESSAGE Software being installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:03:07.327
+!MESSAGE Missing requirement: TestNG M2E (Maven) Integration 6.14.3.201902250526 (org.testng.eclipse.maven 6.14.3.201902250526) requires 'bundle org.eclipse.m2e.core 1.5.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:03:07.327
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:03:07.327
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:03:07.327
+!MESSAGE To: org.testng.eclipse.maven [6.14.3.201902250526]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2019-05-20 01:03:07.333
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:03:07.333
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:03:07.333
+!MESSAGE Software being installed: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:03:07.333
+!MESSAGE Missing requirement: TestNG M2E (Maven) Integration 6.14.3.201902250526 (org.testng.eclipse.maven 6.14.3.201902250526) requires 'bundle org.eclipse.m2e.core 1.5.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-05-20 01:03:07.333
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:03:07.333
+!MESSAGE From: TestNG M2E (Maven) Integration (Optional) 6.14.3.201902250526 (org.testng.eclipse.maven.feature.feature.group 6.14.3.201902250526)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-05-20 01:03:07.333
+!MESSAGE To: org.testng.eclipse.maven [6.14.3.201902250526]

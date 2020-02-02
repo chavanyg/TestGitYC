@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d260e6a4-526d-46b6-9d77-dc49c98ab1f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\YOGESH\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VtWFli6XofKQEwgRJb7JhzmGQC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Yogesh\Selenium\src\Drivers" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="&lt;!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java --&gt; &lt;dependency&gt;     &lt;groupId&gt;org.seleniumhq.selenium&lt;/groupId&gt;     &lt;artifactId&gt;selenium-java&lt;/artifactId&gt;     &lt;version&gt;3.141.59&lt;/version&gt; &lt;/dependency&gt; " />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Yogesh/Selenium/src/TestNG.xml">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_HOME_DIR$/jbr" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Amazon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Yogesh/Selenium/src/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_ForgotPassword.forgotPswd" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Amazon.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.Okta.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.Amazon.testCases.TC_ForgotPassword" />
+      <option name="METHOD_NAME" value="forgotPswd" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.D:/Yogesh/Selenium/src/TestNG.xml" />
+      <item itemvalue="TestNG.TC_ForgotPassword.forgotPswd" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Yogesh/Selenium/src/TestNG.xml" />
+        <item itemvalue="TestNG.TC_ForgotPassword.forgotPswd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d260e6a4-526d-46b6-9d77-dc49c98ab1f5" name="Default Changelist" comment="" />
+      <created>1578072773944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578072773944</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="281" y="18" key="#Project_Structure" timestamp="1578077676764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="18" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578077676764" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578938897418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1578938897418" />
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578937988537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578937988537" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1578594513067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578594513067" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1578939951579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578939951579" />
+    <state width="1322" height="151" key="GridCell.Tab.0.bottom" timestamp="1579459323578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579459323578" />
+    <state width="1322" height="151" key="GridCell.Tab.0.center" timestamp="1579459323578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579459323578" />
+    <state width="1322" height="151" key="GridCell.Tab.0.left" timestamp="1579459323578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579459323578" />
+    <state width="1322" height="151" key="GridCell.Tab.0.right" timestamp="1579459323578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579459323578" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1578940645099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578940645099" />
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1578072814332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578072814332" />
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup" timestamp="1579111244662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579111244662" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578152370650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578152370650" />
+  </component>
+</project>
