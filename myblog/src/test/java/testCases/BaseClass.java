@@ -25,7 +25,7 @@ public class BaseClass {
         //System.setProperty("webdriver.chrome.driver", chromePath);
         ChromeOptions chromrop = new ChromeOptions();
         chromrop.addArguments("--no-sandbox");
-        chromrop.addArguments("--disable-dev-shm-usage");
+       /* chromrop.addArguments("--disable-dev-shm-usage");
         chromrop.addArguments("--aggressive-cache-discard");
         chromrop.addArguments("--disable-cache");
         chromrop.addArguments("--disable-application-cache");
@@ -40,7 +40,7 @@ public class BaseClass {
         chromrop.addArguments("--disable-browser-side-navigation");
         chromrop.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         chromrop.setProxy(null);
-
+*/
         chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
        // WebDriverManager.chromedriver().setup();
