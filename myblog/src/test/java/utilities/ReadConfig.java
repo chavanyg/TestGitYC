@@ -30,6 +30,6 @@ public class ReadConfig {
     }
 
     public String getDriverpath(){
-        return pro.getProperty("ChromePath");
+        return System.getProperty("user.dir") + pro.getProperty("ChromePath");
     }
 }
