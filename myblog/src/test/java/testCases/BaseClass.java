@@ -16,6 +16,7 @@ public class BaseClass {
 
     @BeforeClass
     public void invokeUrl(){
+        System.out.println("chromePath = "+chromePath);
         System.setProperty("webdriver.chrome.driver", chromePath);
         driver = new ChromeDriver();
         driver.get(url);
