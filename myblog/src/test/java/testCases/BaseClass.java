@@ -24,8 +24,8 @@ public class BaseClass {
         //System.out.println("chromePath = "+chromePath);
         //System.setProperty("webdriver.chrome.driver", chromePath);
         ChromeOptions chromrop = new ChromeOptions();
-        chromrop.addArguments("--no-sandbox");
-       /* chromrop.addArguments("--disable-dev-shm-usage");
+       /*  chromrop.addArguments("--no-sandbox");
+       chromrop.addArguments("--disable-dev-shm-usage");
         chromrop.addArguments("--aggressive-cache-discard");
         chromrop.addArguments("--disable-cache");
         chromrop.addArguments("--disable-application-cache");
