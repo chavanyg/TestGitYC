@@ -23,7 +23,7 @@ public class BaseClass {
         //System.out.println("chromePath = "+chromePath);
         //System.setProperty("webdriver.chrome.driver", chromePath);
         ChromeOptions chromrop = new ChromeOptions();
-        chromrop.setBinary("C:\\Users\\YOGESH\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe");
+        chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
        // WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
