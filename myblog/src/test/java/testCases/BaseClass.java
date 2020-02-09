@@ -5,6 +5,7 @@ import io.github.bonigarcia.wdm.DriverManagerType;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import utilities.ReadConfig;
@@ -21,6 +22,8 @@ public class BaseClass {
     public void invokeUrl(){
         //System.out.println("chromePath = "+chromePath);
         //System.setProperty("webdriver.chrome.driver", chromePath);
+        ChromeOptions chromrop = new ChromeOptions();
+        chromrop.setBinary("C:\\Users\\YOGESH\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe");
         ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
        // WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
