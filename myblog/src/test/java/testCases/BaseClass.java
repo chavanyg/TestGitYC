@@ -31,12 +31,12 @@ public class BaseClass {
         chromrop.addArguments("--disable-application-cache");
         chromrop.addArguments("--disable-offline-load-stale-cache");
         chromrop.addArguments("--disk-cache-size=0");
-        chromrop.addArguments("--headless");
+       // chromrop.addArguments("--headless");
         chromrop.addArguments("--disable-gpu");
         chromrop.addArguments("--dns-prefetch-disable");
         chromrop.addArguments("--no-proxy-server");
         chromrop.addArguments("--log-level=3");
-       // chromrop.addArguments("--silent");
+        chromrop.addArguments("--silent");
         chromrop.addArguments("--disable-browser-side-navigation");
         chromrop.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         chromrop.setProxy(null);
