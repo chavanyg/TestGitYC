@@ -36,7 +36,7 @@ public class BaseClass {
         chromrop.addArguments("--dns-prefetch-disable");
         chromrop.addArguments("--no-proxy-server");
         chromrop.addArguments("--log-level=3");
-        chromrop.addArguments("--silent");
+       // chromrop.addArguments("--silent");
         chromrop.addArguments("--disable-browser-side-navigation");
         chromrop.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         chromrop.setProxy(null);
