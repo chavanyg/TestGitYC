@@ -31,7 +31,7 @@ public class BaseClass {
         chromrop.addArguments("--disable-application-cache");
         chromrop.addArguments("--disable-offline-load-stale-cache");
         chromrop.addArguments("--disk-cache-size=0");
-        chromrop.addArguments("--headless");
+        //chromrop.addArguments("--headless");
         chromrop.addArguments("--disable-gpu");
         chromrop.addArguments("--dns-prefetch-disable");
         chromrop.addArguments("--no-proxy-server");
