@@ -2,6 +2,7 @@ package testCases;
 
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 import io.github.bonigarcia.wdm.DriverManagerType;
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -20,7 +21,8 @@ public class BaseClass {
     public void invokeUrl(){
         //System.out.println("chromePath = "+chromePath);
         //System.setProperty("webdriver.chrome.driver", chromePath);
-        ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
+        //ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
+        WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.get(url);
     }
