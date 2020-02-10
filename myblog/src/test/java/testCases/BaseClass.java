@@ -12,6 +12,7 @@ import org.testng.annotations.BeforeClass;
 import utilities.ReadConfig;
 
 import java.awt.*;
+import java.util.concurrent.TimeUnit;
 
 public class BaseClass {
     ReadConfig readConfig =  new ReadConfig();
@@ -22,7 +23,7 @@ public class BaseClass {
     public static WebDriver driver;
 
     @BeforeClass
-    public void invokeUrl(){
+    public void invokeUrl() throws InterruptedException {
         //System.out.println("chromePath = "+chromePath);
         System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeOptions chromrop = new ChromeOptions();
@@ -52,6 +53,9 @@ public class BaseClass {
       //  ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
        // WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
+        TimeUnit.SECONDS.sleep(30);
+
+
         driver.get(url);
     }
 
