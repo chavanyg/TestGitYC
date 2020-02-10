@@ -11,6 +11,8 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import utilities.ReadConfig;
 
+import java.awt.*;
+
 public class BaseClass {
     ReadConfig readConfig =  new ReadConfig();
     String userid = readConfig.getUserID();
@@ -41,7 +43,10 @@ public class BaseClass {
         chromrop.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         chromrop.setProxy(null);
 */
-        System.setProperty("java.awt.headless", "true");
+        GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
+        boolean headless_check = GraphicsEnvironment.isHeadless();
+       System.out.println("headless_check : " + headless_check);
+        System.setProperty("java.awt.headless", "false");
         chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
        // WebDriverManager.chromedriver().setup();
