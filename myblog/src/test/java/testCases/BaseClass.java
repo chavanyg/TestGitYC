@@ -40,6 +40,7 @@ public class BaseClass {
         ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
+        driver.manage().timeouts().pageLoadTimeout(60,TimeUnit.SECONDS);
         TimeUnit.SECONDS.sleep(30);
 
 
