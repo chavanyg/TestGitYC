@@ -24,7 +24,7 @@ public class BaseClass {
     @BeforeClass
     public void invokeUrl(){
         //System.out.println("chromePath = "+chromePath);
-        //System.setProperty("webdriver.chrome.driver", chromePath);
+        System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeOptions chromrop = new ChromeOptions();
        /*  chromrop.addArguments("--no-sandbox");
        chromrop.addArguments("--disable-dev-shm-usage");
@@ -43,13 +43,13 @@ public class BaseClass {
         chromrop.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         chromrop.setProxy(null);
 */
-      
+
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
         boolean headless_check = GraphicsEnvironment.isHeadless();
        System.out.println("headless_check : " + headless_check);
 
-        chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
-        ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
+       // chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
+      //  ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
        // WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         driver.get(url);
