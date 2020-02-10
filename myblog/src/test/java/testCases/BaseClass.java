@@ -43,10 +43,11 @@ public class BaseClass {
         chromrop.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         chromrop.setProxy(null);
 */
+        System.setProperty("java.awt.headless", "true");
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
         boolean headless_check = GraphicsEnvironment.isHeadless();
        System.out.println("headless_check : " + headless_check);
-        System.setProperty("java.awt.headless", "true");
+
         chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
        // WebDriverManager.chromedriver().setup();
