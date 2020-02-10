@@ -26,24 +26,11 @@ public class BaseClass {
     public void invokeUrl() throws InterruptedException {
         //System.out.println("chromePath = "+chromePath);
       //  System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
-        ChromeOptions chromrop = new ChromeOptions();
-       /*  chromrop.addArguments("--no-sandbox");
-       chromrop.addArguments("--disable-dev-shm-usage");
-        chromrop.addArguments("--aggressive-cache-discard");
-        chromrop.addArguments("--disable-cache");
-        chromrop.addArguments("--disable-application-cache");
-        chromrop.addArguments("--disable-offline-load-stale-cache");
-        chromrop.addArguments("--disk-cache-size=0");
-        //chromrop.addArguments("--headless");
-        chromrop.addArguments("--disable-gpu");
-        chromrop.addArguments("--dns-prefetch-disable");
-        chromrop.addArguments("--no-proxy-server");
-        chromrop.addArguments("--log-level=3");
-       // chromrop.addArguments("--silent");
-        chromrop.addArguments("--disable-browser-side-navigation");
-        chromrop.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-        chromrop.setProxy(null);
-*/
+        ChromeOptions options = new ChromeOptions();
+
+        options.addArguments("--headless");
+        options.addArguments("--window-size=1920,1080");
+
 
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
         boolean headless_check = GraphicsEnvironment.isHeadless();
