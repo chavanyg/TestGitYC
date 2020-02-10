@@ -36,7 +36,7 @@ public class BaseClass {
         boolean headless_check = GraphicsEnvironment.isHeadless();
        System.out.println("headless_check : " + headless_check);
 
-       chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
+        options.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
