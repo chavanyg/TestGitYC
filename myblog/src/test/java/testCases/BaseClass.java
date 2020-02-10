@@ -35,11 +35,11 @@ public class BaseClass {
         GraphicsEnvironment ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
         boolean headless_check = GraphicsEnvironment.isHeadless();
        System.out.println("headless_check : " + headless_check);
-
+        options.setPageLoadStrategy(PageLoadStrategy.NONE);
         options.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
         WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
+        driver = new ChromeDriver(options);
         driver.manage().timeouts().pageLoadTimeout(60,TimeUnit.SECONDS);
         TimeUnit.SECONDS.sleep(30);
 
