@@ -25,7 +25,7 @@ public class BaseClass {
     @BeforeClass
     public void invokeUrl() throws InterruptedException {
         //System.out.println("chromePath = "+chromePath);
-        System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
+      //  System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
         ChromeOptions chromrop = new ChromeOptions();
        /*  chromrop.addArguments("--no-sandbox");
        chromrop.addArguments("--disable-dev-shm-usage");
@@ -49,9 +49,9 @@ public class BaseClass {
         boolean headless_check = GraphicsEnvironment.isHeadless();
        System.out.println("headless_check : " + headless_check);
 
-       // chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
-      //  ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
-       // WebDriverManager.chromedriver().setup();
+       chromrop.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
+        ChromeDriverManager.getInstance(DriverManagerType.CHROME).setup();
+        WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
         TimeUnit.SECONDS.sleep(30);
 
