@@ -25,9 +25,11 @@ public class SignIn {
     public String readTitle(){
         return txtTitle.getText();
     }
+
+    public void clickLink()
+    {
+        lnkShodh.click();
+    }
 }
 
-public void clickLink()
-{
-    lnkShodh.click();
-}
+
