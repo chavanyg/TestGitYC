@@ -17,8 +17,17 @@ public class SignIn {
     @CacheLookup
     private WebElement txtTitle;
 
+    @FindBy(xpath = "//a[contains(text(), 'Shodh')]")
+    @CacheLookup
+    private WebElement lnkShodh;
+
     //Test Methods
     public String readTitle(){
         return txtTitle.getText();
     }
+}
+
+public void clickLink()
+{
+    lnkShodh.click();
 }

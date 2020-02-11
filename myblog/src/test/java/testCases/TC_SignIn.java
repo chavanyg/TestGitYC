@@ -20,6 +20,8 @@ public class TC_SignIn extends BaseClass {
         else {
             System.out.println("Blog not opened.");
         }
+        si.clickLink();
+        System.out.println("Link Found .......!!");
     }
 
 
